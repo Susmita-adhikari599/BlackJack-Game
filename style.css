@@ -1,0 +1,63 @@
+body{
+      background-color: beige;
+      background-image: url('istockphoto-1092139474-170667a.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      text-align: center;
+}
+h1{
+      color: goldenrod;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+      font: size 200px;
+      font-style: italic;
+      font-weight: bold;
+      text-transform: upperc;
+      text-align: center;
+     
+}
+
+#message-el{
+      text-align: center;
+      text-shadow: rg;
+      font: size 40px;
+      color: floralwhite;
+}
+p{
+      text-align: center;
+      text-decoration:overline;
+      font-size: 40px;
+      color: floralwhite;
+}
+button{
+      text-align: center;
+      /* object-position: 0cqb; */
+      width: 150px;
+      height: 50px;
+      text-emphasis-color: #016f32;
+      margin-bottom: 5px;
+}
+#start-el{
+      text-align: center;
+      background-color:goldenrod;
+      color: #016f32;
+      font: size 200px;
+      font-weight: bold;
+      overflow: hidden;
+      position:-webkit-sticky;
+      padding: 5px;
+      border: none;
+      border-radius: 2px;
+}
+#newcard-el{text-align: center;
+      background-color:goldenrod;
+      color: #016f32;
+      font: size 200px;
+      font-weight: bold;
+      overflow: hidden;
+      position:-webkit-sticky;
+      padding: 5px;
+      border: none;
+      border-radius: 2px;
+
+}
